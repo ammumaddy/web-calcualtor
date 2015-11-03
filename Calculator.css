@@ -1,0 +1,47 @@
+body {
+	background-color: silver;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+}
+
+#topRow > #buttons {
+	display: inline-block;
+}
+
+#secondRow > #buttons {
+	display: inline-block;
+}
+
+#thirdRow > #buttons {
+	display: inline-block;
+}
+
+#fourthRow > #buttons {
+	display: inline-block;
+}
+
+#fifthRow > #buttons {
+	display: inline-block;
+}
+
+#buttons {
+	height: 30px;
+	width: 60px;
+	background-color: skyblue;
+	border: 5px solid black;
+	border-radius: 5px;
+	padding-top: 4px;
+}
+
+.buttons {
+	text-align: center;
+}s
